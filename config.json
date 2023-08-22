@@ -1,0 +1,11 @@
+{
+  "env": "AVAX",
+  "AVAX": {
+    "treasuryMultiSig": "0x2b93EA09a9e2Df790aA12E7A039D798aAB27226A",
+    "verifyContracts": true,
+    "WETH": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "alphaTokenV2": "0x9c3254bb4F7f6A05A4Aaf2Cadce592C848d043c1",
+    "alphaDexFactoryAddress": "0x1449a49db777D723bfd464E6857335FD48192f6d",
+    "alphaDexRouterAddress": "0x1a0C6D8A4F189E53D527216aDc744100736ebeF7"
+  }
+}
